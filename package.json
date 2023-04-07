@@ -1,0 +1,22 @@
+{
+  "name": "03--challenge-(js)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ch3-1": "nodemon ./js/ex1.js",
+    "ch3-2": "nodemon ./js/ex2.js",
+    "ch3-3": "nodemon ./js/ex3.js",
+    "ch3-4": "nodemon ./js/ex4.js",
+    "ch3-5": "nodemon ./js/ex5.js",
+    "ch3-6": "nodemon ./js/ex6.js",
+    "ch3-7": "nodemon ./js/ex7.js"
+  },
+  "keywords": [],
+  "author": "Edvinas <edvingvozdovic@gmail.com> (https://github.com/EdvinGV)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
